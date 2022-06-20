@@ -8,15 +8,15 @@
 
 实测：
 
-![截屏2022-06-20 13.57.23](./images/截屏2022-06-20 13.57.23.png)
+![](https://gitee.com/gitFlutterStudent/images/blob/master/1.png)
 
 
 
-![截屏2022-06-20 13.56.51](/Users/chentuo/Public/redteam/annoy/截屏2022-06-20 13.56.51.png)
+![截屏2022-06-20 13.56.51](./images/截屏2022-06-20 13.56.51.png)
 
 
 
-![截屏2022-06-20 13.57.23](/Users/chentuo/Public/redteam/annoy/截屏2022-06-20 14.00.29.png)
+![截屏2022-06-20 13.57.23](./images/截屏2022-06-20 14.00.29.png)
 
 第一个会话是：tor
 

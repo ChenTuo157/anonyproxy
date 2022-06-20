@@ -26,7 +26,7 @@ mac m1因架构问题编译解决方法：https://blog.csdn.net/sanqima/article/
 
 
 
-![截屏2022-06-20 15.21.26](/Users/chentuo/Public/redteam/annoy/截屏2022-06-20 15.21.26.png)
+![](https://gitee.com/gitFlutterStudent/images/blob/master/%E6%88%AA%E5%B1%8F2022-06-20%2015.21.26.png)
 
 注意：tor+proxychains使用起来访问速度比较慢，需要延迟timeout
 
