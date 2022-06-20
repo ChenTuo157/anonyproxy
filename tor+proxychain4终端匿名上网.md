@@ -14,7 +14,8 @@ mac m1因架构问题编译解决方法：https://blog.csdn.net/sanqima/article/
 
 第三个会话：curl cip.cc 本地对网站进行测试时的公网ip
 
-![](http://www.chentuo.asia/images/4.png)
+![4.png](http://www.chentuo.asia/images/4.png)
+...
 
 
 
