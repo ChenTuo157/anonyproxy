@@ -52,13 +52,13 @@ The Proton VPN Linux app is now ready to secure your internet browsing and allow
 
 #### 实测（环境有问题，还没有解决）：
 
-![截屏2022-06-20 15.02.12](/Users/chentuo/Public/redteam/annoy/截屏2022-06-20 15.02.12.png)
+![](http://www.chentuo.asia/images/5.png)
 
 proton免费节点信号太差了，连不上
 
 
 
-![AFA1F6C4F130809CDFC994428FF2AFAE](/Users/chentuo/Public/redteam/annoy/AFA1F6C4F130809CDFC994428FF2AFAE.png)
+![](http://www.chentuo.asia/images/kali.png)
 
 windows10上的kali与宿主机之间通讯有问题
 

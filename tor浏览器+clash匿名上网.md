@@ -125,8 +125,6 @@ Tor 的一些特性使得`其匿名性略高于普通浏览器的无痕浏览模
 
 ## 实测：
 
-![241655692243_.pic](/Users/chentuo/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/6257f5817ba6ff01ee2d37b75255016a/Message/MessageTemp/ac337b5a84bb6e0402c4451562d565c3/Image/241655692243_.pic.jpg)
-
-
+![](http://www.chentuo.asia/images/7.png)
 
 特点：隐秘性强，访问速度较慢
