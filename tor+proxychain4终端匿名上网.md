@@ -6,7 +6,7 @@ mac m1因架构问题编译解决方法：https://blog.csdn.net/sanqima/article/
 
 
 
-实测：
+##### 实测：
 
 第一个会话：tor
 
@@ -24,9 +24,9 @@ mac m1因架构问题编译解决方法：https://blog.csdn.net/sanqima/article/
 
 
 
+##### 注意：
 
-
-注意：tor+proxychains使用起来访问速度比较慢，需要延迟timeout
+tor+proxychains使用起来访问速度比较慢，需要延迟timeout
 
 修改配置文件：将原来的延时从15s和8s改为150s和80s
 
