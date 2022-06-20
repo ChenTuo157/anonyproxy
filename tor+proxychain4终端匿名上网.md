@@ -16,6 +16,7 @@ mac m1因架构问题编译解决方法：https://blog.csdn.net/sanqima/article/
 
 ![4.png](http://www.chentuo.asia/images/4.png)
 ...
+这个图片显示异常，源地址在：http://www.chentuo.asia/images/4.png
 
 
 
@@ -37,4 +38,5 @@ tcp_connect_time_out 80000
 经过这个设置后，便可以通过proxychains来访问到cip.cc
 
 ![](http://www.chentuo.asia/images/6.png)
+...这个图片显示异常，源地址在：http://www.chentuo.asia/images/6.png
 
